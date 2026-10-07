@@ -1,0 +1,2 @@
+Bug: apply_discount(200, 10) should give 180 (10% off 200)
+but it returns 0. Discounts are wrongly huge.
